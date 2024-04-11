@@ -1,0 +1,154 @@
+Initial log joint probability = -2.29453e+07
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      19  -1.28465e+06      0.652283       177.562           1           1       24   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      39  -1.28341e+06      0.466324       128.627           1           1       48   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      59  -1.28288e+06      0.439436       146.744           1           1       73   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      79  -1.28271e+06      0.019909       162.031      0.7624      0.7624       98   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+      99  -1.28267e+06     0.0403528       124.519           1           1      118   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     119  -1.28264e+06     0.0219922       260.218       0.807       0.807      139   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     139  -1.28262e+06     0.0673757       340.818           1           1      159   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     159   -1.2826e+06      0.121713       461.627           1           1      180   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     179  -1.28258e+06     0.0261446       404.009           1           1      200   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     199  -1.28257e+06     0.0377536       820.164           1           1      221   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     219  -1.28256e+06   0.000913557       221.692      0.7857      0.7857      242   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     239  -1.28256e+06     0.0139774       380.607           1           1      263   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     259  -1.28256e+06    0.00723019       233.481      0.8236      0.8236      283   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     279  -1.28255e+06    0.00099646       405.166      0.7106      0.7106      303   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     299  -1.28254e+06    0.00402225       603.431      0.6539      0.6539      323   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     319  -1.28253e+06    0.00489182       348.723           1           1      343   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     339  -1.28253e+06    0.00181923       135.431           1           1      364   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     359  -1.28253e+06    0.00790908        239.93           1           1      384   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     379  -1.28252e+06    0.00223163       450.131           1           1      405   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     399  -1.28251e+06     0.0126675       888.241      0.5341      0.5341      427   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     419   -1.2825e+06    0.00231318       348.827           1           1      448   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     439   -1.2825e+06    0.00173195       313.637           1           1      468   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     459   -1.2825e+06     0.0140099       526.535           1           1      489   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     479  -1.28249e+06    0.00712407       488.888      0.8848      0.8848      509   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     499  -1.28249e+06   0.000637673       384.281           1           1      530   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     519  -1.28248e+06   0.000485868       276.088           1           1      551   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     539  -1.28248e+06      0.020329       1505.76           1           1      572   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     559  -1.28247e+06     0.0346185       1611.25           1           1      593   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     579  -1.28246e+06   0.000504702       1371.89      0.2836      0.2836      619   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     599  -1.28246e+06    0.00147437       791.734      0.4434      0.4434      641   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     619  -1.28246e+06   0.000870044       288.649           1           1      661   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     639  -1.28246e+06   0.000913746       175.883           1           1      683   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     659  -1.28246e+06    0.00169424        401.71      0.3545           1      705   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     679  -1.28245e+06    0.00287178       469.832      0.9436      0.9436      727   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     699  -1.28245e+06     0.0255582       1691.56           1           1      747   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     719  -1.28245e+06   0.000451289        573.46      0.5438      0.5438      767   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     739  -1.28245e+06   0.000909193       710.608      0.3892           1      788   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     759  -1.28245e+06   0.000997616       399.311           1           1      809   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     779  -1.28245e+06    0.00067407         142.8           1           1      831   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     799  -1.28245e+06    0.00188854       289.343           1           1      851   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     819  -1.28244e+06    0.00139714       544.234           1           1      871   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     839  -1.28244e+06    0.00461837       418.977           1           1      893   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     859  -1.28244e+06   0.000995419       331.732      0.4212           1      915   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     879  -1.28244e+06    0.00187558       404.065      0.4907           1      937   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     899  -1.28244e+06    0.00487523       403.891           1           1      957   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     919  -1.28244e+06      0.021505       946.083           1           1      978   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     939  -1.28243e+06     0.0294608       1857.13           1           1     1001   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     959  -1.28243e+06     0.0134574       1230.68           1           1     1022   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     979  -1.28243e+06    0.00609971       419.715           1           1     1043   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+     999  -1.28243e+06    0.00178656       672.457           1           1     1064   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1019  -1.28242e+06    0.00138585       818.541           1           1     1085   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1039  -1.28242e+06     0.0416711       3573.47           1           1     1106   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1059  -1.28241e+06    0.00361189          5130           1           1     1126   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1079   -1.2824e+06     0.0332055       2755.94           1           1     1146   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1099  -1.28239e+06   0.000840445       2808.86           1           1     1174   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1119  -1.28238e+06   0.000188008       724.319           1           1     1196   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1139  -1.28238e+06   6.57945e-05       610.579      0.9199      0.9199     1217   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1159  -1.28238e+06    0.00404118       2169.83           1           1     1238   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1179  -1.28238e+06    0.00187715       3941.35           1           1     1259   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1199  -1.28238e+06   0.000516845       1194.72           1           1     1280   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1219  -1.28238e+06   0.000109023       346.237           1           1     1300   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1239  -1.28238e+06   5.22493e-05       508.191           1           1     1320   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1259  -1.28237e+06    0.00368782       1244.32           1           1     1342   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1279  -1.28237e+06   0.000906739       1734.92      0.3599           1     1364   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1299  -1.28237e+06   0.000522387       895.693           1           1     1385   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1319  -1.28237e+06     0.0026796       2057.44           1           1     1405   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1339  -1.28237e+06   0.000268169        1123.8           1           1     1426   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1359  -1.28237e+06    0.00235395       753.963           1           1     1446   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1379  -1.28237e+06    0.00210902        671.95           1           1     1468   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1399  -1.28237e+06    0.00128998        507.45           1           1     1490   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1419  -1.28237e+06    0.00126265       655.408           1           1     1511   
+    Iter      log prob        ||dx||      ||grad||       alpha      alpha0  # evals  Notes 
+    1433  -1.28237e+06   4.34664e-05       245.786           1           1     1525   
+Optimization terminated normally: 
+  Convergence detected: relative gradient magnitude is below tolerance
+Rejecting initial value:
+  Error evaluating the log probability at the initial value.
+Exception: normal_lpdf: Location parameter[169] is nan, but must be finite!  (in 'unknown file name' at line 44)
+
+
+Initialization between (-2, 2) failed after 1 attempts. 
+ Try specifying initial values, reducing ranges of constrained values, or reparameterizing the model.

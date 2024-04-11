@@ -1,0 +1,35 @@
+srun: warning: Multiple leaf switches contain nodes: gn[01-60]
+Traceback (most recent call last):
+  File "/ceph/hpc/home/viam/BAMF_MV/experiment_analyzer.py", line 82, in <module>
+    pd.DataFrame(rows).to_hdf(arguments["output"], "metrics")
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/pandas/core/generic.py", line 2799, in to_hdf
+    pytables.to_hdf(
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/pandas/io/pytables.py", line 298, in to_hdf
+    with HDFStore(
+         ^^^^^^^^^
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/pandas/io/pytables.py", line 578, in __init__
+    self.open(mode=mode, **kwargs)
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/pandas/io/pytables.py", line 737, in open
+    self._handle = tables.open_file(self._path, self._mode, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/tables/file.py", line 300, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cvmfs/sling.si/modules/el7/software/Anaconda3/2023.07-2/lib/python3.11/site-packages/tables/file.py", line 750, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 484, in tables.hdf5extension.File._g_new
+tables.exceptions.HDF5ExtError: HDF5 error back trace
+
+  File "H5F.c", line 509, in H5Fopen
+    unable to open file
+  File "H5Fint.c", line 1567, in H5F_open
+    unable to lock the file
+  File "H5FD.c", line 1640, in H5FD_lock
+    driver lock request failed
+  File "H5FDsec2.c", line 959, in H5FD_sec2_lock
+    unable to lock file, errno = 11, error message = 'Resource temporarily unavailable'
+
+End of HDF5 error back trace
+
+Unable to open/create file './results/analysis/metrics_eu1.h5'
+srun: error: cn0489: task 0: Exited with exit code 1

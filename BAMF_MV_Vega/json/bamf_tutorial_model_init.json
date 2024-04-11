@@ -1,0 +1,37 @@
+{
+    "general": {
+        "iterations": 2000,
+        "treedepth": 12,
+        "delta": 0.9,
+        "preprocessing": "basic",
+        "action": "sampling",
+        "outputbase": "./results/model_init_example",
+        "loader": "benchmark",
+        "init": "model_init",
+        "seed": [
+            5435887,
+            4565473
+        ]
+    },
+    "new_3_components_initialized": {
+        "description": "testing model init, with the amount of components the file was written with",
+        "components": 3,
+        "datafile": [
+            "data/example_data.h5"
+        ],
+        "extract": [
+            "F",
+            "G",
+            "alpha_a",
+            "alpha_b",
+            "lp__"
+        ],
+        "model": "./models/bamf.stan",
+        "initoptions": {
+            "premodel": "./models/bamf.stan",
+            "premodel_options": {
+                "iter": 2000
+            }
+        }
+    }
+}
