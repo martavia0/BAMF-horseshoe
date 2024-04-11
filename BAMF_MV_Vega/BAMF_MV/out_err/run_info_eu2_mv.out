@@ -1,0 +1,18 @@
+{'procs': 2, 'input': 'json/bamf_tutorial.json', 'wait_n': 3, 'max_time_per_job': 604800.0, 'check_interval': 600.0, 'function': 'run', 'log': 'results/run_info_eu2.h5'}
+Using precompiled model: models/bamf.pkl
+{'procs': 2, 'input': 'json/bamf_tutorial.json', 'wait_n': 3, 'max_time_per_job': 604800.0, 'check_interval': 600.0, 'function': 'run', 'log': 'results/run_info_eu2.h5'}
+Using precompiled model: models/bamf.pkl
+2024-04-11 10:18:48.924930 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 10:18:48.925794
+2024-04-11 10:18:48.927943 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 10:18:48.928431
+finish waiting connention: 2024-04-11 10:28:49.027407
+finish waiting connention: 2024-04-11 10:28:49.029399
+2024-04-11 10:28:55.373430 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 10:28:55.373527
+            counts  freqs
+categories               
+started          2    1.0
+finish waiting connention: 2024-04-11 10:38:55.474394
+2024-04-11 10:39:00.548480 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 10:39:00.548586

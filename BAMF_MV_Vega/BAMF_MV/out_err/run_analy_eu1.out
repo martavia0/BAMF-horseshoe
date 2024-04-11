@@ -1,0 +1,68 @@
+Groups to analyze: 1 . Thu Apr 11 18:32:29 2024
+Groups to analyze: 1 . Thu Apr 11 18:32:29 2024
+X The files have matching variables.
+m The files have matching variables.
+n The files have matching variables.
+p The files have matching variables.
+sigma The files have matching variables.
+norm_const The files have matching variables.
+X The files have matching variables.
+m The files have matching variables.
+n The files have matching variables.
+p The files have matching variables.
+sigma The files have matching variables.
+norm_const The files have matching variables.
+Sorting sample sizes: (2, 4, 70) (2, 336, 4)
+Sorting sample sizes: (2, 4, 70) (2, 336, 4)
+There are 2 possible orderings
+Each ordering has appeared: [1 1]
+Sorting starts...
+There are 2 possible orderings
+Each ordering has appeared: [1 1]
+Sorting starts...
+Stats calculating...
+median solution Thu Apr 11 18:32:34 2024
+Stats calculating...
+median solution Thu Apr 11 18:32:34 2024
+descriptive Thu Apr 11 18:32:35 2024
+descriptive Thu Apr 11 18:32:35 2024
+z-data Thu Apr 11 18:32:38 2024
+Q statistics Thu Apr 11 18:32:38 2024
+Z statistics Thu Apr 11 18:32:38 2024
+Alpha statistics Thu Apr 11 18:32:38 2024
+alpha_a mean
+alpha_a median
+alpha_a std
+alpha_b mean
+alpha_b median
+alpha_b std
+metrics calculation finished Thu Apr 11 18:32:38 2024
+z-data Thu Apr 11 18:32:39 2024
+Q statistics Thu Apr 11 18:32:39 2024
+Z statistics Thu Apr 11 18:32:39 2024
+Alpha statistics Thu Apr 11 18:32:39 2024
+alpha_a mean
+alpha_a median
+alpha_a std
+alpha_b mean
+alpha_b median
+alpha_b std
+metrics calculation finished Thu Apr 11 18:32:39 2024
+adding few mzs...
+Plotting starts...
+start plotting... Thu Apr 11 18:32:41 2024
+adding few mzs...
+Plotting starts...
+start plotting... Thu Apr 11 18:32:41 2024
+log prob saved
+log prob saved
+conservation from median G saved
+conservation from median G saved
+conservation from last sample saved
+conservation from last sample saved
+F saved
+F saved
+G saved
+G saved
+median G saved
+median G saved

@@ -1,0 +1,64 @@
+srun: warning: Multiple leaf switches contain nodes: gn[01-60]
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+/ceph/hpc/home/viam/BAMF_MV/experiment_analyzer.py:82: FutureWarning: Starting with pandas version 3.0 all arguments of to_hdf except for the argument 'path_or_buf' will be keyword-only.
+  pd.DataFrame(rows).to_hdf(arguments["output"], "metrics")
+/ceph/hpc/home/viam/BAMF_MV/experiment_analyzer.py:82: FutureWarning: Starting with pandas version 3.0 all arguments of to_hdf except for the argument 'path_or_buf' will be keyword-only.
+  pd.DataFrame(rows).to_hdf(arguments["output"], "metrics")
+Traceback (most recent call last):
+  File "/ceph/hpc/home/viam/BAMF_MV/experiment_analyzer.py", line 82, in <module>
+    pd.DataFrame(rows).to_hdf(arguments["output"], "metrics")
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/pandas/core/generic.py", line 2852, in to_hdf
+    pytables.to_hdf(
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/pandas/io/pytables.py", line 308, in to_hdf
+    with HDFStore(
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/pandas/io/pytables.py", line 585, in __init__
+    self.open(mode=mode, **kwargs)
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/pandas/io/pytables.py", line 745, in open
+    self._handle = tables.open_file(self._path, self._mode, **kwargs)
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/tables/file.py", line 294, in open_file
+    return File(filename, mode, title, root_uep, filters, **kwargs)
+  File "/ceph/hpc/home/viam/.conda/envs/bamfdev/lib/python3.9/site-packages/tables/file.py", line 744, in __init__
+    self._g_new(filename, mode, **params)
+  File "tables/hdf5extension.pyx", line 512, in tables.hdf5extension.File._g_new
+tables.exceptions.HDF5ExtError: HDF5 error back trace
+
+  File "H5F.c", line 620, in H5Fopen
+    unable to open file
+  File "H5VLcallback.c", line 3501, in H5VL_file_open
+    failed to iterate over available VOL connector plugins
+  File "H5PLpath.c", line 578, in H5PL__path_table_iterate
+    can't iterate over plugins in plugin path '(null)'
+  File "H5PLpath.c", line 620, in H5PL__path_table_iterate_process_path
+    can't open directory: /ceph/hpc/home/viam/.conda/envs/bamfdev/lib/hdf5/plugin
+  File "H5VLcallback.c", line 3351, in H5VL__file_open
+    open failed
+  File "H5VLnative_file.c", line 97, in H5VL__native_file_open
+    unable to open file
+  File "H5Fint.c", line 1898, in H5F_open
+    unable to lock the file
+  File "H5FD.c", line 1625, in H5FD_lock
+    driver lock request failed
+  File "H5FDsec2.c", line 1002, in H5FD__sec2_lock
+    unable to lock file, errno = 11, error message = 'Resource temporarily unavailable'
+
+End of HDF5 error back trace
+
+Unable to open/create file './results/analysis/metrics_eu_norm.h5'
+srun: error: cn0568: task 1: Exited with exit code 1

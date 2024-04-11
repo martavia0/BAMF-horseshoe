@@ -1,0 +1,25 @@
+{'procs': 2, 'input': 'json/Basic_eu_exp.json', 'wait_n': 3, 'max_time_per_job': 604800.0, 'check_interval': 600.0, 'function': 'run', 'log': 'results/run_info_eubasic.h5'}
+Using precompiled model: models/bamf.pkl
+2024-04-11 12:05:51.942732 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:05:51.942845
+finish waiting connention: 2024-04-11 12:15:52.049739
+2024-04-11 12:15:58.805858 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:15:58.805982
+finish waiting connention: 2024-04-11 12:25:58.909736
+2024-04-11 12:26:04.218803 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:26:04.218909
+finish waiting connention: 2024-04-11 12:36:04.324733
+2024-04-11 12:36:09.417811 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:36:09.417912
+finish waiting connention: 2024-04-11 12:46:09.518745
+2024-04-11 12:46:14.653826 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:46:14.653944
+finish waiting connention: 2024-04-11 12:56:14.754737
+2024-04-11 12:56:19.802834 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 12:56:19.802997
+finish waiting connention: 2024-04-11 12:58:09.597771
+2024-04-11 12:58:14.645069 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 12:58:14.645177
+finish waiting connention: 2024-04-11 13:08:14.680755
+2024-04-11 13:08:19.731342 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 13:08:19.731428

@@ -1,0 +1,61 @@
+
+Gradient evaluation took 0.001621 seconds
+1000 transitions using 10 leapfrog steps per transition would take 16.21 seconds.
+Adjust your expectations accordinglInformational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[1] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[1] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[1] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[3] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[92] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Iteration:    1 / 2000 [  0%]  (Warmup)
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[1] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception: cauchy_lpdf: Location parameter[1] is inf, but must be finite!  (in 'unknown file name' at line 40)
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+IteraIteration:  200 / 2000 [ 10%]  (WarIteraIteration:  400 / 2000 [ 20%]  (WarIteration:  600 / 2000 [ 30%]  (Warmup)
+Iteration:  800 / 2000 [ 40%]  (Warmup)
+IteraIteration: 1000 / 2000 [ 50%]  (WarIteraIteration: 1001 / 2000 [ 50%]  (SamplIteraIteration: 1200 / 2000 [ 60%]  (SamplIteraIteration: 1400 / 2000 [ 70%]  (SamplIteraIteration: 1600 / 2000 [ 80%]  (SamplIteraIteration: 1800 / 2000 [ 90%]  (SamplIteration: 2000 / 2000 [100%]  (Sampling)
+
+ Elapsed Time: 36.8294 seconds (Warm-up)
+               1300.88 seconds (Sampling)
+               1337.7 seconds (Total)
+
+WARNING:pystan:Maximum (flat) parameter count (1000) exceeded: skipping diagnostic tests for n_eff and Rhat.
+To run all diagnostics call pystan.check_hmc_diagnostics(fit)
+WARNING:pystan:223 of 1000 iterations saturated the maximum tree depth of 12 (22.3 %)
+WARNING:pystan:Run again with max_treedepth larger than 12 to avoid saturation
+WARNING:pystan:Chain 1: E-BFMI = 0.000249
+WARNING:pystan:E-BFMI below 0.2 indicates you may need to reparameterize your model
+seed: 5435887

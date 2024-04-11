@@ -1,0 +1,15 @@
+========================================================
+BITACORE NOTEBOOK
+========================================================
+Author: Marta Via
+**********************************
+            11/2/2024
+**********************************
+- Some errors with the test3 input related to data format amongst others 
+- I change slightly hte runners.py def read_input(filepath) function to turn into datetime values the 
+time indexes. 
+- I change the analysis.py adding 'timediff = pd.to_timedelta(timediff) #Marta did that' on the 
+scale_times() function just to get rid of possible misformattings. 
+- I am running it for four factors since there are four for this dataset. 
+- Experiment 1: EU dataset, no initialisation, no normalisation.
+- Experiment 2: EU dataset, no initialisation, yes normalisation.

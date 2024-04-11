@@ -1,0 +1,50 @@
+{'procs': 2, 'input': 'json/Exp_eu_basic.json', 'wait_n': 3, 'max_time_per_job': 604800.0, 'check_interval': 600.0, 'function': 'run', 'log': 'results/run_info_eu_basic.h5'}
+Using precompiled model: models/bamf.pkl
+{'procs': 2, 'input': 'json/Exp_eu_basic.json', 'wait_n': 3, 'max_time_per_job': 604800.0, 'check_interval': 600.0, 'function': 'run', 'log': 'results/run_info_eu_basic.h5'}
+Using precompiled model: models/bamf.pkl
+2024-04-11 13:21:14.788615 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 13:21:14.788720
+2024-04-11 13:21:14.789035 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 13:21:14.789136
+finish waiting connention: 2024-04-11 13:31:14.889806
+finish waiting connention: 2024-04-11 13:31:14.889817
+2024-04-11 13:31:20.940947 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 13:31:20.941071
+            counts  freqs
+categories               
+started          2    1.0
+finish waiting connention: 2024-04-11 13:41:21.041798
+2024-04-11 13:41:26.135868 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 13:41:26.135964
+finish waiting connention: 2024-04-11 13:51:26.236803
+2024-04-11 13:51:31.331943 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 13:51:31.332133
+finish waiting connention: 2024-04-11 14:01:31.432811
+2024-04-11 14:01:36.499879 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 14:01:36.499974
+finish waiting connention: 2024-04-11 14:11:36.600807
+2024-04-11 14:11:41.661883 running: dict_keys([0, 1])
+start waiting connention for 600.0 s : 2024-04-11 14:11:41.662031
+finish waiting connention: 2024-04-11 14:14:52.703816
+2024-04-11 14:14:57.741890 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 14:14:57.741965
+finish waiting connention: 2024-04-11 14:24:57.842075
+2024-04-11 14:25:02.867080 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 14:25:02.867141
+finish waiting connention: 2024-04-11 14:35:02.966804
+2024-04-11 14:35:08.037884 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 14:35:08.037957
+finish waiting connention: 2024-04-11 14:45:08.138126
+2024-04-11 14:45:13.173868 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 14:45:13.173938
+finish waiting connention: 2024-04-11 14:55:13.273801
+2024-04-11 14:55:18.632871 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 14:55:18.632937
+finish waiting connention: 2024-04-11 15:05:18.733042
+2024-04-11 15:05:23.799883 running: dict_keys([0])
+start waiting connention for 600.0 s : 2024-04-11 15:05:23.799979
+finish waiting connention: 2024-04-11 15:14:58.706080
+            counts  freqs
+categories               
+finished         2    1.0
+total time: 1:53:54.219030

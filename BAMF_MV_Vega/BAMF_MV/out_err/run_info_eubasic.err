@@ -1,0 +1,4 @@
+srun: warning: Multiple leaf switches contain nodes: gn[01-60]
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 23457916.0 ON cn0470 CANCELLED AT 2024-04-11T13:18:07 ***
+slurmstepd: error: *** JOB 23457916 ON cn0470 CANCELLED AT 2024-04-11T13:18:07 ***

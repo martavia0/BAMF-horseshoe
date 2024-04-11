@@ -1,0 +1,32 @@
+{
+    "general": {
+        "iterations": 2000,
+        "treedepth": 12,
+        "delta": 0.9,
+        "preprocessing": "basic",
+        "action": "sampling",
+        "outputbase": "./results/european_dataset/norm_exp",
+        "loader": "benchmark",
+        "init": "nothing",
+        "seed": [
+            5435887,
+            4565473
+        ]
+    },
+    "4_components": {
+        "description": "testing the amount of components the file was written with",
+        "components": 4,
+        "datafile": [
+            "./data/eu_dataset.h5"
+        ],
+        "extract": [
+            "F",
+            "G",
+            "alpha_a",
+            "alpha_b",
+            "lp__"
+        ],
+        "model": "./models/bamf.stan",
+        "initoptions": {}
+    }
+}
